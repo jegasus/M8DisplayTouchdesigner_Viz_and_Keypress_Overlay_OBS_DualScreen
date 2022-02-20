@@ -15,9 +15,9 @@ Built on top of the original .toe file provided by Dirtywave (0183dcf / Dec 24, 
 
 ### M8Display_GleixViz_LightweightKeypressOverlay.toe - Lightweight, no visuals, meant for use as an overlay 
 
-- 2x RGB Sliders // Control button color & background color (for keying)
+- RGB(a) Sliders // Control button color, background color & alpha (keying or output via syphon spout)
 - Particles // Same as above. Particle container isn't cooking when not in use and shouldn't take up any resources. 
-- Syphon Spout still functional, great for using as a source directly into OBS (window capture also works, but you'll need to crop out the UI)
+- Syphon Spout still functional, great for using as a source directly into OBS (may need to install Spout plugin for OBS - https://offworld.live/spout-plugin-for-obs-studio)
 
 Installation & connection instructions same as original below.
 
