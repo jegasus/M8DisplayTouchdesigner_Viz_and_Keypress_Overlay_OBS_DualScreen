@@ -2,7 +2,7 @@
 
 See video overview for info: https://youtu.be/92oHb1FnavE
 
-Built using the original .toe file provided by Dirtywave (0183dcf / Dec 24, 2021). Two additional files in the 'M8DisplayTouchdesigner' folder: 
+Built on top of the original .toe file provided by Dirtywave (0183dcf / Dec 24, 2021). Two additional files in the 'M8DisplayTouchdesigner' folder: 
 
 ### M8Display_GleixViz.toe - Adds a few additional UI elements for controlling: 
 
