@@ -1,6 +1,6 @@
 # M8 Display + simple visual features
 
-See video overview for info: https://youtu.be/wDKA9TcbvFw
+See video overview for info: https://youtu.be/92oHb1FnavE
 
 Built using the original .toe file provided by Dirtywave (0183dcf / Dec 24, 2021). Two additional files in the 'M8DisplayTouchdesigner' folder: 
 
