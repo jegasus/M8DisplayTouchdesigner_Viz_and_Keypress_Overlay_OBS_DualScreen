@@ -7,17 +7,23 @@ Built on top of the original .toe file provided by Dirtywave (0183dcf / Dec 24, 
 ### M8Display_GleixViz.toe - Adds a few additional UI elements for controlling: 
 
 - Full view // Full device is shown, buttons light up when pressed
+- Audio // Settings for routing audio from the M8 via USB
 - RGB Sliders // Controls color of the buttons & some visual scenes
+- RGBA Sliders // Control the color & transparency of the background (for use with spout output / OBS)
 - Particles // Particles emit from buttons when pressed
 - CRT TV emulation
 - 8 preset visual scenes, some of which are color controllable, one of which accepts MIDI sync & transport
-- Poorly (re: not) optimized, may not run well on some systems
+- Touchscreen/mouse support (click on buttons of the m8 in full view)
+- Poorly (re: not) optimized, may not run well on some systems 
 
 ### M8Display_GleixViz_LightweightKeypressOverlay.toe - Lightweight, no visuals, meant for use as an overlay 
 
 - RGB(a) Sliders // Control button color, background color & alpha (keying or output via syphon spout)
+- Audio // Settings for routing audio from the M8 via USB
+- Touchscreen/mouse support (click on buttons of the m8 in full view)
 - Particles // Same as above. Particle container isn't cooking when not in use and shouldn't take up any resources. 
 - Syphon Spout still functional, great for using as a source directly into OBS (may need to install Spout plugin for OBS - https://offworld.live/spout-plugin-for-obs-studio)
+- 
 
 Installation & connection instructions same as original below.
 
