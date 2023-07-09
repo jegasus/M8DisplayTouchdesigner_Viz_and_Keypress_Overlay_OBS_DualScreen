@@ -34,9 +34,9 @@ You will need to have the following items ready to use:
 6. In the OBS window, on the menu bar at the top, click on `Scene Collection > M8 TouchDisplay`
    ![](https://github.com/jegasus/M8DisplayTouchdesigner_Viz_and_Keypress_Overlay_OBS_DualScreen/assets/76404978/d1088eaf-f705-447e-80ad-e0f2f5c492e7)
 7. Now, you can choose which of the three types of display OBS will stream out by picking one of the `Scenes` in the box at the bottom left of the OBS window.
-   i. M8 TouchDisplay - 2in1: This is a widescreen 16:9 view that allows you to show the M8 screen on the left as well as the M8 body on the right with the button-press highlights.
-   ii. M8 TouchDisplay - 2in1 (HFlip): This is the same as above, but horizontally flipped. If you're trying to stream using OBS' virtual camera, you might want to use this version instead.
-   iii. M8 TouchDisplay - Original: This is the original output of Gleix's TouchDisplay. You can command what is actually shown on screen by clicking on the `Full View` button on the bottom right.
+    i. M8 TouchDisplay - 2in1: This is a widescreen 16:9 view that allows you to show the M8 screen on the left as well as the M8 body on the right with the button-press highlights.
+    ii. M8 TouchDisplay - 2in1 (HFlip): This is the same as above, but horizontally flipped. If you're trying to stream using OBS' virtual camera, you might want to use this version instead.
+    iii. M8 TouchDisplay - Original: This is the original output of Gleix's TouchDisplay. You can command what is actually shown on screen by clicking on the `Full View` button on the bottom right.
    ![](https://github.com/jegasus/M8DisplayTouchdesigner_Viz_and_Keypress_Overlay_OBS_DualScreen/assets/76404978/751597d7-41f8-4bc3-b284-2106ff602c2c)
 
 
