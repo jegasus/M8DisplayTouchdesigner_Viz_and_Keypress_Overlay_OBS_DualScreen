@@ -33,19 +33,19 @@ You will need to have the following items ready to use:
 
    ![](https://github.com/jegasus/M8DisplayTouchdesigner_Viz_and_Keypress_Overlay_OBS_DualScreen/assets/76404978/2b7d4510-e8ba-4462-a0f1-c744c07c5a95)
    
-6. Open up OBS. 
-7. In the OBS window, on the menu bar at the top, click on `Scene Collection > M8 TouchDisplay`
+4. Open up OBS. 
+5. In the OBS window, on the menu bar at the top, click on `Scene Collection > M8 TouchDisplay`
    
    ![](https://github.com/jegasus/M8DisplayTouchdesigner_Viz_and_Keypress_Overlay_OBS_DualScreen/assets/76404978/d1088eaf-f705-447e-80ad-e0f2f5c492e7)
    
-9. Now, you can choose which of the three types of display OBS will stream out by picking one of the `Scenes` in the box at the bottom left of the OBS window.
+6. Now, you can choose which of the three types of display OBS will stream out by picking one of the `Scenes` in the box at the bottom left of the OBS window.
     1.  M8 TouchDisplay - 2in1: This is a widescreen 16:9 view that allows you to show the M8 screen on the left as well as the M8 body on the right with the button-press highlights.
     2.  M8 TouchDisplay - 2in1 (HFlip): This is the same as above, but horizontally flipped. If you're trying to stream using OBS' virtual camera, you might want to use this version instead.
     3.  M8 TouchDisplay - Original: This is the original output of Gleix's TouchDisplay. You can command what is actually shown on screen by clicking on the `Full View` button on the bottom right.
     
     ![](https://github.com/jegasus/M8DisplayTouchdesigner_Viz_and_Keypress_Overlay_OBS_DualScreen/assets/76404978/751597d7-41f8-4bc3-b284-2106ff602c2c)
 
-10. 
+7. Enjoy the M8 awesomeness!
 
 # Setting Up M8 Input Audio Monitoring
 Note: This section is copied directly from Dirtywave's original [Headless Setup guide](https://github.com/DirtyWave/M8Docs/blob/main/docs/M8HeadlessSetup.md).
