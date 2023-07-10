@@ -18,7 +18,7 @@ You will need to have the following items ready to use:
 # Setting things up for the first time
 
 1. Download or clone this repository onto your local drive
-2. Unzip the contents of the zipfile somewhere easy to find. For example, "C:/Users/username/M8_Stuff"
+2. Extract the contents of the zipfile somewhere easy to find. For example, "C:/Users/username/M8_Stuff"
 3. Set up audio monitoring (see details below)
 4. In OBS, click on `Scene Collection > Import` and import the `OBS_M8_TouchDisplay.json` file that is found in this repository's `OBS` folder
 
