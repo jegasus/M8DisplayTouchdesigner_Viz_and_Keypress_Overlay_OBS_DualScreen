@@ -1,6 +1,8 @@
-# M8 Display for OBS Output
+# M8 Display for OBS Output (2 in 1)
 
 This M8 Display for TouchDesigner makes it slightly easier to stream content out to OBS if users want to display the M8 Screen and the M8 Body simultaneously.
+
+Here is my video tutorial on how to get things set up: https://youtu.be/vnkaN_mrpb4
 
 This version was built on top of [Gleix's TouchDesigner M8Display](https://github.com/Gleix/M8DisplayTouchdesigner_Viz_and_Keypress_Overlay).
 
@@ -12,7 +14,7 @@ You will need to have the following items ready to use:
 
 * Derivative Touchdesigner: https://derivative.ca/download
 * OBS: https://obsproject.com/download
-* Syphon Spout: https://offworld.live/spout-plugin-for-obs-studio
+* Syphon Spout: https://github.com/Off-World-Live/obs-spout2-plugin
 * M8 (hardware or headless) running firmware 1.0.3 or above
 
 # Setting things up for the first time
