@@ -90,8 +90,39 @@
             }
         ]
     },
-    "current_scene": "M8 TouchDisplay - 2in1",
-    "current_program_scene": "M8 TouchDisplay - 2in1",
+    "AuxAudioDevice2": {
+        "prev_ver": 486604803,
+        "name": "JabraMic",
+        "uuid": "24c4101a-f83f-45a4-a8b7-fad9b548e30b",
+        "id": "wasapi_input_capture",
+        "versioned_id": "wasapi_input_capture",
+        "settings": {
+            "device_id": "{0.0.1.00000000}.{d1142f39-5fa8-48df-8210-7c31be19b218}"
+        },
+        "mixers": 255,
+        "sync": 0,
+        "flags": 0,
+        "volume": 1.0,
+        "balance": 0.5,
+        "enabled": true,
+        "muted": false,
+        "push-to-mute": false,
+        "push-to-mute-delay": 0,
+        "push-to-talk": false,
+        "push-to-talk-delay": 0,
+        "hotkeys": {
+            "libobs.mute": [],
+            "libobs.unmute": [],
+            "libobs.push-to-mute": [],
+            "libobs.push-to-talk": []
+        },
+        "deinterlace_mode": 0,
+        "deinterlace_field_order": 0,
+        "monitoring_type": 0,
+        "private_settings": {}
+    },
+    "current_scene": "M8 TouchDisplay - Original",
+    "current_program_scene": "M8 TouchDisplay - Original",
     "scene_order": [
         {
             "name": "M8 TouchDisplay - 2in1"
@@ -101,6 +132,9 @@
         },
         {
             "name": "M8 TouchDisplay - Original"
+        },
+        {
+            "name": "M8 TouchDisplay - Original (HFlip)"
         }
     ],
     "name": "M8 TouchDisplay",
@@ -232,7 +266,7 @@
             "volume": 1.0,
             "balance": 0.5,
             "enabled": true,
-            "muted": false,
+            "muted": true,
             "push-to-mute": false,
             "push-to-mute-delay": 0,
             "push-to-talk": false,
@@ -369,7 +403,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 9,
+                "id_counter": 10,
                 "items": [
                     {
                         "name": "M8 Waves",
@@ -746,7 +780,7 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 2,
+                "id_counter": 3,
                 "custom_size": false,
                 "items": [
                     {
@@ -844,6 +878,77 @@
                 "libobs.hide_scene_item.M8 Original": [],
                 "libobs.show_scene_item.M8 Audio": [],
                 "libobs.hide_scene_item.M8 Audio": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 486604803,
+            "name": "M8 TouchDisplay - Original (HFlip)",
+            "uuid": "4531f08d-60fa-43a5-8ea5-006764e1f92b",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 1,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "M8 TouchDisplay - Original",
+                        "source_uuid": "14a2b2c3-e84b-45ca-bf16-306d4e7180d4",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1920.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": -1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.M8 TouchDisplay - Original": [],
+                "libobs.hide_scene_item.M8 TouchDisplay - Original": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
